@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetterIrcForDotNet", "BetterIrcForDotNet\BetterIrcForDotNet.csproj", "{6405F042-F521-4ABF-93E9-096D71B3BDC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example", "Example\Example.csproj", "{436F00F2-FE20-439F-95EE-28BB3F18E4A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6405F042-F521-4ABF-93E9-096D71B3BDC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6405F042-F521-4ABF-93E9-096D71B3BDC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6405F042-F521-4ABF-93E9-096D71B3BDC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6405F042-F521-4ABF-93E9-096D71B3BDC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{436F00F2-FE20-439F-95EE-28BB3F18E4A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{436F00F2-FE20-439F-95EE-28BB3F18E4A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{436F00F2-FE20-439F-95EE-28BB3F18E4A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{436F00F2-FE20-439F-95EE-28BB3F18E4A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
